@@ -54,6 +54,7 @@ Explore the various projects and tutorials available in this repository to gain 
 Here are some of the exciting projects you will find in this repository:
 
 - **Image Classification**: Learn how to build and train CNN models for image classification tasks.
+(on-going)
 - **Object Detection**: Implement popular object detection algorithms like YOLO and SSD.
 - **Image Segmentation**: Explore techniques for segmenting images into meaningful parts.
 - **GANs**: Generate realistic images using Generative Adversarial Networks.
